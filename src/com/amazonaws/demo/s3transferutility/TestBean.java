@@ -8,4 +8,5 @@ package com.amazonaws.demo.s3transferutility;
 public class TestBean {
     private String name;
     private int age;
+    int score;
 }
