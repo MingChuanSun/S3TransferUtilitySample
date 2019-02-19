@@ -10,6 +10,7 @@ import java.util.Date;
 public class TestBean {
     private String name;
     private int age;
+    String nickName;
     int score;
     Date nowDate;
 }
