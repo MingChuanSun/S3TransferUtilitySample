@@ -7,5 +7,5 @@ package com.amazonaws.demo.s3transferutility;
  */
 public class Test {
     public String sex;
-    private int code;
+    public String address;
 }
