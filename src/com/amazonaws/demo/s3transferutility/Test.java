@@ -5,4 +5,6 @@ package com.amazonaws.demo.s3transferutility;
  * create at 2019/2/19-16:42
  * describe:
  */
-public class Test {}
+public class Test {
+    public String sex;
+}
